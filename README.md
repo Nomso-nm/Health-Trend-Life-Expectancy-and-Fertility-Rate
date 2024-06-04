@@ -24,9 +24,13 @@ This is an exploratory data analysis (EDA) of a country health trend dataset. Af
 
 3.	From the horizontal bar chart, there is a significant disparity in fertility rates between different countries, reflecting varying socio-economic, cultural, and health conditions. Afghanistan, with the highest fertility rate, contrasts sharply with Hong Kong, China, which has the lowest. 
 
-4.	There is a slight downward trend in average life expectancy as the population size increases. Countries with smaller populations tend to have higher average life expectancy compared to those with medium and large populations. Also, there is a noticeable concentration of higher life expectancies among smaller populations, while larger populations show more spread and a tendency towards lower life expectancies. 
+4.	There is a slight downward trend in average life expectancy as the population size increases. Countries with smaller populations tend to have higher average life expectancy compared to those with medium and large populations. Also, there is a noticeable concentration of higher life expectancies among smaller populations, while larger populations show more spread and a tendency towards lower life expectancies.
 
-5.	With a calculated correlation coefficient is -0.805, indicating a strong negative correlation between life expectancy and fertility rate. This means that as fertility rates increase, life expectancy tends to decrease, and vice versa. Different regions exhibit distinct patterns, but the overall trend of lower life expectancy with higher fertility rates holds true across most regions. This highlights the importance of considering regional contexts when addressing health and demographic policies. 
+![image](https://github.com/Nomso-nm/Health-Trend-Life-Expectancy-and-Fertility-Rate/assets/150568749/9bd10b89-e98f-4637-a502-e08c63157308)
+
+5.	With a calculated correlation coefficient is -0.805, indicating a strong negative correlation between life expectancy and fertility rate. This means that as fertility rates increase, life expectancy tends to decrease, and vice versa. Different regions exhibit distinct patterns, but the overall trend of lower life expectancy with higher fertility rates holds true across most regions. This highlights the importance of considering regional contexts when addressing health and demographic policies.
+
+![image](https://github.com/Nomso-nm/Health-Trend-Life-Expectancy-and-Fertility-Rate/assets/150568749/2af3b37d-b8ff-49f7-8498-7dd657009128)
 
 **Recomendations** 
 
