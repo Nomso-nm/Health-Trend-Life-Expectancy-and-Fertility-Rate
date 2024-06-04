@@ -1,0 +1,192 @@
+Country,LifeExpectancy,FertilityRate,Population,Region,Population Category
+Afghanistan,51.0,7.81,19701940,South Asia,Large
+Albania,74.2,2.47,3121965,Europe & Central Asia,Medium
+Algeria,73.2,2.63,31183658,Middle East & North Africa,Large
+Angola,52.6,6.88,15058638,Sub-Saharan Africa,Large
+Antigua and Barbuda,73.9,2.32,77648,America,Small
+Argentina,74.3,2.54,37057453,America,Large
+Armenia,71.4,1.4,3076098,Europe & Central Asia,Medium
+Aruba,74.919,1.91,90858,America,Small
+Australia,79.7,1.76,19107251,East Asia & Pacific,Large
+Austria,78.2,1.34,8050884,Europe & Central Asia,Medium
+Azerbaijan,68.0,2.11,8117742,Europe & Central Asia,Medium
+Bahamas,70.3,2.17,297891,America,Small
+Bahrain,73.6,2.81,666855,Middle East & North Africa,Small
+Bangladesh,65.8,3.23,131280739,South Asia,Large
+Barbados,74.3,1.76,269838,America,Small
+Belarus,68.2,1.25,9952055,Europe & Central Asia,Medium
+Belgium,77.8,1.62,10268380,Europe & Central Asia,Medium
+Belize,69.0,3.7,247312,America,Small
+Benin,59.2,6.05,6949366,Sub-Saharan Africa,Medium
+Bhutan,63.9,3.81,564187,South Asia,Small
+Bolivia,67.6,4.22,8339512,America,Medium
+Bosnia and Herzegovina,75.2,1.43,3792878,Europe & Central Asia,Medium
+Botswana,51.6,3.52,1736579,Sub-Saharan Africa,Small
+Brazil,71.9,2.4,175786441,America,Large
+Brunei,75.5,2.48,330554,East Asia & Pacific,Small
+Bulgaria,71.7,1.18,8000510,Europe & Central Asia,Medium
+Burkina Faso,53.3,6.65,11607944,Sub-Saharan Africa,Large
+Burundi,47.5,7.11,6767073,Sub-Saharan Africa,Medium
+Cambodia,60.9,3.9,12197905,East Asia & Pacific,Large
+Cameroon,55.0,5.68,15927713,Sub-Saharan Africa,Large
+Canada,79.3,1.54,30701903,America,Large
+Cape Verde,70.1,3.88,438737,Sub-Saharan Africa,Small
+Chad,52.4,7.38,8343321,Sub-Saharan Africa,Medium
+Channel Islands,79.745,1.4,148725,Europe & Central Asia,Small
+Chile,77.2,2.14,15170387,America,Large
+China,71.5,1.45,1269974572,East Asia & Pacific,Large
+Colombia,72.5,2.68,40403959,America,Large
+Comoros,60.2,5.31,547696,Sub-Saharan Africa,Small
+"Congo, Dem. Rep.",52.5,7.14,48048664,Sub-Saharan Africa,Large
+"Congo, Rep.",52.6,5.14,3109269,Sub-Saharan Africa,Medium
+Costa Rica,77.7,2.48,3925450,America,Medium
+Cote d'Ivoire,52.8,5.46,16517948,Sub-Saharan Africa,Large
+Croatia,74.7,1.47,4428069,Europe & Central Asia,Medium
+Cuba,75.9,1.62,11116787,America,Medium
+Cyprus,79.1,1.78,943287,Europe & Central Asia,Small
+Denmark,76.9,1.74,5338283,Europe & Central Asia,Medium
+Djibouti,59.6,4.61,722562,Middle East & North Africa,Small
+Ecuador,73.2,3.11,12628596,America,Large
+Egypt,68.9,3.37,68334905,Middle East & North Africa,Large
+El Salvador,72.9,3.07,5811836,America,Medium
+Equatorial Guinea,52.4,5.81,530896,Sub-Saharan Africa,Small
+Eritrea,49.3,6.02,3535156,Sub-Saharan Africa,Medium
+Estonia,70.1,1.31,1399145,Europe & Central Asia,Small
+Ethiopia,52.5,6.66,66443603,Sub-Saharan Africa,Large
+Fiji,64.2,3.13,811223,East Asia & Pacific,Small
+Finland,77.8,1.73,5176482,Europe & Central Asia,Medium
+France,79.1,1.8,59387183,Europe & Central Asia,Large
+French Guiana,76.21,3.88,163162,America,Small
+French Polynesia,75.377,2.52,237267,East Asia & Pacific,Small
+Gabon,58.0,4.66,1231548,Sub-Saharan Africa,Small
+Gambia,60.0,5.94,1228863,Sub-Saharan Africa,Small
+Georgia,72.3,1.64,4743591,Europe & Central Asia,Medium
+Germany,78.1,1.35,81895925,Europe & Central Asia,Large
+Ghana,60.2,4.73,18824994,Sub-Saharan Africa,Large
+Greece,78.0,1.27,10954032,Europe & Central Asia,Medium
+Greenland,70.525,2.42,56174,Europe & Central Asia,Small
+Grenada,70.5,2.67,101620,America,Small
+Guadeloupe,79.848,2.08,431157,America,Small
+Guam,77.776,2.85,155328,East Asia & Pacific,Small
+Guatemala,68.5,4.88,11688660,America,Large
+Guinea,55.6,6.01,8799165,Sub-Saharan Africa,Medium
+Guinea-Bissau,51.7,5.93,1315455,Sub-Saharan Africa,Small
+Guyana,64.4,2.56,742218,America,Small
+Haiti,58.6,4.43,8549202,America,Medium
+Honduras,68.8,4.12,6243080,America,Medium
+"Hong Kong, China",82.663,0.88,6783502,East Asia & Pacific,Medium
+Hungary,71.8,1.33,10224113,Europe & Central Asia,Medium
+Iceland,79.9,2.02,281214,Europe & Central Asia,Small
+India,61.1,3.21,1053481072,South Asia,Large
+Indonesia,68.3,2.5,211540428,East Asia & Pacific,Large
+Iran,71.2,2.34,65850062,Middle East & North Africa,Large
+Iraq,69.1,5.05,23574751,Middle East & North Africa,Large
+Ireland,76.7,1.94,3841574,Europe & Central Asia,Medium
+Israel,78.8,2.92,6013711,Middle East & North Africa,Medium
+Italy,79.6,1.21,57147081,Europe & Central Asia,Large
+Jamaica,72.7,2.63,2600095,America,Small
+Japan,81.1,1.34,125714674,East Asia & Pacific,Large
+Jordan,73.1,4.16,4767476,Middle East & North Africa,Medium
+Kazakhstan,63.6,1.94,14956769,Europe & Central Asia,Large
+Kenya,57.4,5.03,31065820,Sub-Saharan Africa,Large
+Kiribati,59.5,4.01,84406,East Asia & Pacific,Small
+Kuwait,77.5,2.9,1929470,Middle East & North Africa,Small
+Latvia,70.1,1.17,2371481,Europe & Central Asia,Small
+Lebanon,76.2,2.31,3235380,Middle East & North Africa,Medium
+Lesotho,49.8,4.2,1856225,Sub-Saharan Africa,Small
+Liberia,55.9,5.95,2891968,Sub-Saharan Africa,Medium
+Libya,74.6,3.14,5337264,Middle East & North Africa,Medium
+Lithuania,72.0,1.38,3486373,Europe & Central Asia,Medium
+Luxembourg,78.2,1.71,436107,Europe & Central Asia,Small
+"Macao, China",79.538,1.0,431907,East Asia & Pacific,Small
+"Macedonia, FYR",73.9,1.73,2012051,Europe & Central Asia,Small
+Madagascar,60.5,5.65,15744811,Sub-Saharan Africa,Large
+Malawi,46.3,6.32,11193230,Sub-Saharan Africa,Medium
+Malaysia,73.8,2.96,23420751,East Asia & Pacific,Large
+Maldives,72.6,3.51,280384,South Asia,Small
+Mali,51.1,6.85,11046926,Sub-Saharan Africa,Medium
+Malta,79.7,1.67,387180,Europe & Central Asia,Small
+Martinique,80.475,1.92,387018,America,Small
+Mauritania,61.8,5.44,2711421,Sub-Saharan Africa,Medium
+Mauritius,71.0,2.02,1185143,Sub-Saharan Africa,Small
+Mayotte,78.291,4.64,150329,Sub-Saharan Africa,Small
+Mexico,75.1,2.71,102808590,America,Large
+"Micronesia, Fed. Sts.",64.5,4.39,107430,East Asia & Pacific,Small
+Moldova,69.3,1.61,4201088,Europe & Central Asia,Medium
+Mongolia,61.4,2.22,2397438,East Asia & Pacific,Small
+Montenegro,72.0,1.82,613557,Europe & Central Asia,Small
+Morocco,71.3,2.8,28950553,Middle East & North Africa,Large
+Mozambique,53.6,5.81,18264536,Sub-Saharan Africa,Large
+Myanmar,61.4,2.51,47669791,East Asia & Pacific,Large
+Namibia,55.0,4.13,1897953,Sub-Saharan Africa,Small
+Nepal,64.9,4.21,23740145,South Asia,Large
+Netherlands,78.1,1.65,15894016,Europe & Central Asia,Large
+Netherlands Antilles,76.363,2.11,180106,America,Small
+New Caledonia,75.466,2.46,209997,East Asia & Pacific,Small
+New Zealand,78.5,2.0,3858234,East Asia & Pacific,Medium
+Nicaragua,73.9,3.38,5026792,America,Medium
+Niger,53.0,7.74,11224523,Sub-Saharan Africa,Large
+Nigeria,55.8,6.13,122876723,Sub-Saharan Africa,Large
+Norway,78.7,1.85,4491572,Europe & Central Asia,Medium
+Oman,73.7,3.99,2239403,Middle East & North Africa,Small
+Pakistan,62.6,4.67,138250487,South Asia,Large
+Panama,76.9,2.84,3028751,America,Medium
+Papua New Guinea,56.9,4.56,5374051,East Asia & Pacific,Medium
+Paraguay,74.1,3.76,5302703,America,Medium
+Peru,74.3,2.99,25914875,America,Large
+Philippines,69.0,3.85,77932247,East Asia & Pacific,Large
+Poland,73.8,1.39,38486305,Europe & Central Asia,Large
+Portugal,76.7,1.47,10278542,Europe & Central Asia,Medium
+Puerto Rico,78.148,1.93,3796981,America,Medium
+Qatar,77.2,3.33,593453,Middle East & North Africa,Small
+Reunion,78.615,2.36,736711,Sub-Saharan Africa,Small
+Romania,70.8,1.28,22128139,Europe & Central Asia,Large
+Russia,65.4,1.16,146400951,Europe & Central Asia,Large
+Rwanda,50.0,6.0,8021875,Sub-Saharan Africa,Medium
+Samoa,69.9,4.54,174614,East Asia & Pacific,Small
+Sao Tome and Principe,65.3,4.73,137164,Sub-Saharan Africa,Small
+Saudi Arabia,76.1,4.19,21392273,Middle East & North Africa,Large
+Senegal,60.0,5.65,9860578,Sub-Saharan Africa,Medium
+Serbia,74.7,1.68,9463306,Europe & Central Asia,Medium
+Seychelles,70.9,2.16,81154,Sub-Saharan Africa,Small
+Sierra Leone,52.2,5.99,4060709,Sub-Saharan Africa,Medium
+Singapore,78.6,1.47,3918183,East Asia & Pacific,Medium
+Slovak Republic,73.3,1.32,5386065,Europe & Central Asia,Medium
+Slovenia,75.8,1.22,1988652,Europe & Central Asia,Small
+Solomon Islands,61.7,4.79,412336,East Asia & Pacific,Small
+Somalia,54.3,7.65,7385416,Sub-Saharan Africa,Medium
+South Africa,57.1,2.9,44896856,Sub-Saharan Africa,Large
+Spain,79.3,1.21,40749800,Europe & Central Asia,Large
+Sri Lanka,72.4,2.24,18783745,South Asia,Large
+Sudan,64.4,5.52,28079664,Sub-Saharan Africa,Large
+Suriname,68.8,2.76,480751,America,Small
+Swaziland,48.7,4.31,1063715,Sub-Saharan Africa,Small
+Sweden,79.7,1.51,8872284,Europe & Central Asia,Medium
+Switzerland,80.0,1.45,7165581,Europe & Central Asia,Medium
+Syria,73.8,4.07,16354050,Middle East & North Africa,Large
+Taiwan,76.0,1.56,22175667,East Asia & Pacific,Large
+Tajikistan,66.3,4.08,6186152,Europe & Central Asia,Medium
+Tanzania,54.8,5.71,33991590,Sub-Saharan Africa,Large
+Thailand,71.3,1.71,62693322,East Asia & Pacific,Large
+Timor-Leste,63.6,7.08,847185,East Asia & Pacific,Small
+Togo,59.0,5.36,4874735,Sub-Saharan Africa,Medium
+Tonga,69.1,4.27,97898,East Asia & Pacific,Small
+Trinidad and Tobago,69.4,1.77,1267980,America,Small
+Tunisia,75.0,2.18,9699192,Middle East & North Africa,Medium
+Turkey,71.5,2.51,63240157,Europe & Central Asia,Large
+Turkmenistan,63.1,2.91,4501419,Europe & Central Asia,Medium
+Uganda,50.0,6.9,23757636,Sub-Saharan Africa,Large
+Ukraine,67.5,1.16,48746269,Europe & Central Asia,Large
+United Arab Emirates,73.8,2.77,3050128,Middle East & North Africa,Medium
+United Kingdom,77.8,1.69,58867004,Europe & Central Asia,Large
+United States,77.1,2.01,282895741,America,Large
+Uruguay,74.6,2.27,3321242,America,Medium
+Uzbekistan,67.4,2.86,24518222,Europe & Central Asia,Large
+Vanuatu,63.0,4.46,185058,East Asia & Pacific,Small
+Venezuela,74.3,2.87,24481477,America,Large
+Vietnam,72.6,2.06,80285563,East Asia & Pacific,Large
+Virgin Islands (U.S.),79.247,2.13,108511,America,Small
+West Bank and Gaza,73.5,5.57,3223781,Middle East & North Africa,Medium
+Western Sahara,66.507,3.04,305615,Middle East & North Africa,Small
+Zambia,45.7,6.1,10585220,Sub-Saharan Africa,Medium
+Zimbabwe,50.8,4.11,12499981,Sub-Saharan Africa,Large
